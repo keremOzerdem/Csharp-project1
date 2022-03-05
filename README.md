@@ -3,7 +3,7 @@
 1. Telefon Numarası Kaydet
 2. Telefon Numarası Sil
 3. Telefon Numarası Güncelle
-4. Rehber Listeleme (A-Z, Z-A seçimli)
+4. Rehber Listeleme
 5. Rehberde Arama
 
 ## Başlangıç 
